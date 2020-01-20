@@ -5,7 +5,7 @@
 
 **2.** Print the total of each transaction to the console.
 
-**3.** Save downloaded data to local database to use in case of no internet connection.
+**3.** Save downloaded data to local database in order to use in case of no internet connection.
 
 
 
