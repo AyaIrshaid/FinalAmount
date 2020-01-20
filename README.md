@@ -12,7 +12,7 @@
 ## Screenshots:
 
 **. First run - with internet connection -
-![With internet connection](/images/1.png)
+![With internet connection](/images/3.png)
 
 **. Second run - with no connection.
 ![With no internet connection](/images/2.png)
