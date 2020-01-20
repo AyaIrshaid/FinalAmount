@@ -11,8 +11,8 @@
 
 ## Screenshots:
 
-**. First run - with internet connection -
+**. First run (Connected to internet)**
 ![With internet connection](/images/3.png)
 
-**. Second run - with no connection.
+**. Second run  (Connection turned off)**
 ![With no internet connection](/images/2.png)
